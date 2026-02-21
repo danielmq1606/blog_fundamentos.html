@@ -95,16 +95,3 @@ Checklist para PR:
 
 Este repositorio es una plantilla educativa. Adáptalo según tus necesidades y agrega un `LICENSE` si deseas compartirlo públicamente.
 
-## Licencia
-
-Sin licencia especificada. Si planeas publicar el proyecto, añade un archivo `LICENSE` (por ejemplo, MIT) y actualiza este apartado.
-
----
-
-Si quieres, puedo:
-
-- Añadir una sección de estilo CSS inicial.
-- Crear un `index.html` y enlazar `blog.html`.
-- Generar una plantilla de `CONTRIBUTING.md` y `LICENSE`.
-
-Dime qué prefieres y lo creo por ti.
