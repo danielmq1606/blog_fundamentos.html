@@ -1,0 +1,22 @@
+/* Selector por etiquetas */
+.main-header h1 {
+    color:blue;
+}
+
+section h2 {
+    color: red;
+}
+
+/* Selector por clases */
+
+.subtitulo {
+    font-style: italic;
+    color: green;
+}
+
+/* Selector por id */
+#pie-pagina {
+    font-size: 12px;
+    text-align: center;
+    color: gray;
+}
